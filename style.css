@@ -1,6 +1,10 @@
+:root {
+    --color-twitch-purple-1: #212126;   
+}
+
 .tw-root--theme-dark .chat-room,
 .tw-root--theme-dark body {
-    background-color: #212126;
+    background-color: var(--color-twitch-purple-1);
 }
 
 .tw-root--theme-dark .side-nav {
