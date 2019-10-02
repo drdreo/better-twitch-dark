@@ -1,0 +1,12 @@
+.tw-root--theme-dark .chat-room,
+.tw-root--theme-dark body {
+    background-color: #212126;
+}
+
+.tw-root--theme-dark .side-nav {
+    border-right: 1px solid #000000;
+}
+
+.tw-root--theme-dark .right-column {
+    border-left: 1px solid #000000;
+}
